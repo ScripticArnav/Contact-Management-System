@@ -24,7 +24,7 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/avanishyadav911/Contact-Management.git
+   git clone git@github.com:ScripticArnav/Contact-Management-System.git
    cd Contact-Management
 ### Install Backend Dependencies:
 cd backend
